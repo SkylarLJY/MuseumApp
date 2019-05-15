@@ -1,4 +1,5 @@
 # MuseumApp
+CPSC 304 Relatioal Database
 
 Step 1: Clone the repo
 
